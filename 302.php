@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.example.com/home-page.html", true, 302);
+header("Location: http://localhost/flag", true, 302);
 exit;
 ?>
